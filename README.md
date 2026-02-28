@@ -11,5 +11,6 @@ A small C command-line tool that encrypts/decrypts text files using a Caesar cip
 gcc -Wall -Wextra -std=c99 main.c cipher.c tests.c -o cipher
 ```
 ## Run
+```bash
 ./cipher cipher <k> <input_file> <output_file>
 ./cipher decipher <k> <input_file> <output_file>
