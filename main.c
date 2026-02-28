@@ -5,7 +5,7 @@
 #include "string.h"
 
 
-// your code goes here
+
 
 #define ARG_ERR "The program receives 1 or 4 arguments only.\n"
 #define TEST_ERR "Usage: cipher test\n"
@@ -23,10 +23,7 @@
 #define NUM_1025 1025
 
 
-/**
- * Thi
- * @return
- */
+
 int run_tests() {
   if (test_cipher_non_cyclic_lower_case_positive_k()) return EXIT_FAILURE;
   if (test_cipher_cyclic_lower_case_special_char_positive_k()) {
