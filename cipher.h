@@ -1,7 +1,7 @@
 #ifndef CIPHER_H
 #define CIPHER_H
 
-/// DO NOT CHANGE ANYTHING IN THIS FILE.
+
 
 /**
  * Encodes the given string according to the given shift value - k.
