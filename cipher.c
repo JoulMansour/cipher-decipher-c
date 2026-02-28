@@ -4,7 +4,6 @@
 
 #define BUFFER_SIZE 1024
 
-/// IN THIS FILE, IMPLEMENT EVERY FUNCTION THAT'S DECLARED IN cipher.h.
 
 
 // See full documentation in header file
